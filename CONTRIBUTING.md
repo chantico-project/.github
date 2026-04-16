@@ -1,8 +1,8 @@
-# Contributing to MISD as an Open Source Project
+# Contributing to Chantico as an Open Source Project
 
-Thank you for taking an interest in the MISD open source project. We welcome 
-you to become involved in this project, whether it is by trying it out, using 
-it in your environment or also thinking along with our team to help improve the 
+Thank you for taking an interest in the Chantico open source project. We welcome 
+you to become involved in this project, whether it is by trying it out, using it 
+in your environment or also thinking along with our team to help improve the 
 data center management ecosystem.
 
 ## General Remarks
@@ -18,7 +18,7 @@ line with the scope and vision of the project. Please provide as much context
 as possible when you open an issue. The information you provide must be 
 comprehensive enough to understand, reproduce the behavior and find related 
 reports of that issue for the assignee. Therefore, contributors may use but 
-aren't restricted to the issue template provided by the MISD maintainers.
+aren't restricted to the issue template provided by the Chantico maintainers.
 
 Releases are planned to follow a continuous integration and delivery (CI/CD) 
 process with small, frequent releases using semantic versioning and clear 
