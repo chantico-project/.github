@@ -1,15 +1,15 @@
 <div align="center">
 <h1>
-<a href="https://misdproject.eu/" target="_blank">
+<a href="https://github.com/chantico-project/chantico">
 <img 
-src="https://misdproject.eu/wp-content/uploads/2024/06/MISD-logo-300x143.png" 
-width="200" height="95" alt="MISD logo">
-<span color="#21B573">Modular Integrated Sustainable Datacenter</span>
+src="https://raw.githubusercontent.com/chantico-project/chantico/main/docs/assets/logo/chantico.png" 
+width="150" height="150" alt="Chantico logo">
+<span color="#21B573">Chantico</span>
 </a>
 </h1>
 </div>
 
-# 🌞 MISD Project Chantico — Energy‑Aware Cloud‑Native Operator
+# 🌞 Chantico Project — Energy‑Aware Cloud‑Native Operator
 
 Chantico is a Kubernetes operator focused on bringing energy intelligence 
 to modern, cloud-native data centers. Built as part of the Modular 
@@ -41,23 +41,32 @@ considered too early to accept external work, given pending design changes and
 major technology choices. Once we are more mature, we welcome contributions 
 that align with our scope and vision of the Chantico project. Have a look at 
 our [contribution 
-guidance](https://github.com/TNO-MISD/.github/blob/main/CONTRIBUTING.md).
+guidance](https://github.com/chantico-project/.github/blob/main/CONTRIBUTING.md).
 
 ## 🧭 Code of Conduct
 
 Please consider the guidelines in the [Code of 
-Conduct](https://github.com/TNO-MISD/.github/blob/main/CODE_OF_CONDUCT.md) 
+Conduct](https://github.com/chantico-project/.github/blob/main/CODE_OF_CONDUCT.md) 
 when participating in our shared environment.
 
 ## 🏛️ Funding
 
 <div align="center">
+<a href="https://misdproject.eu/" target="_blank">
+<img 
+src="https://misdproject.eu/wp-content/uploads/2024/06/MISD-logo-300x143.png" 
+width="200" height="95" alt="MISD logo">
+</a>
+<a href="https://www.rvo.nl/" target="_blank">
 <img 
 src="https://misdproject.eu/wp-content/uploads/2025/07/RVO-logo-300x115.png"
-height="124">
+height="124" alt="RVO logo">
+</a>
+<a href="https://www.8ra.com/" target="_blank">
 <img 
 src="https://misdproject.eu/wp-content/uploads/2025/07/ORA-Logo-quer-Web-300x124.jpg" 
-width="300" height="124">
+width="300" height="124" alt="8ra logo">
+</a>
 </div>
 
 This activity is conducted in the scope of Modular Integrated Sustainable Data 

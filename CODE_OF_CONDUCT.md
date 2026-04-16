@@ -1,4 +1,4 @@
-# MISD Project Open Source Code of Conduct
+# Chantico Project Open Source Code of Conduct
 
 ## Our Pledge
 We pledge to make our community welcoming, safe, and equitable for all.
