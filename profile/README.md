@@ -33,21 +33,16 @@ Our mission is to make sustainable cloud operations effortless.
 In the end, we support sustainable operations via workload migration to 
 green energy sources.
 
-## 🤝 Becoming a Committer
+## 🤝 Contributing
 
-We welcome issues and discussions for our project. Initially, we will not seek 
-external contributions via Pull Requests. At this stage in the project it is 
-considered too early to accept external work, given pending design changes and 
-major technology choices. Once we are more mature, we welcome contributions 
-that align with our scope and vision of the Chantico project. Have a look at 
-our [contribution 
+We welcome issues, discussions, and pull requests. Please Have a look at our
+[contribution
 guidance](https://github.com/chantico-project/.github/blob/main/CONTRIBUTING.md).
 
 ## 🧭 Code of Conduct
 
-Please consider the guidelines in the [Code of 
-Conduct](https://github.com/chantico-project/.github/blob/main/CODE_OF_CONDUCT.md) 
-when participating in our shared environment.
+In your interaction with our project, it is essential to **adhere to our [Code of
+Conduct](https://github.com/chantico-project/.github/blob/main/CODE_OF_CONDUCT.md)**.
 
 ## 🏛️ Funding
 
