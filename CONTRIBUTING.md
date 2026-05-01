@@ -24,6 +24,9 @@ Your contributions to Chantico must be licensed properly:
 - Documentation contributions must be licensed under [CC-BY-SA
   4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
+If your contributions are based on pre-existing content, do not include code and
+documentation that is not compatible with the project licences.
+
 ## Contributing
 
 ### Issues
