@@ -35,8 +35,8 @@ green energy sources.
 
 ## 🤝 Contributing
 
-We welcome issues, discussions, and pull requests. Please Have a look at our
-[contribution
+We welcome issues, discussions, and pull requests based on the former
+two. Please have a look at our [contribution
 guidance](https://github.com/chantico-project/.github/blob/main/CONTRIBUTING.md).
 
 ## 🧭 Code of Conduct
