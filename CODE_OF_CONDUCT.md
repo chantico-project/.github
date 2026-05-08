@@ -38,7 +38,7 @@ We agree to restrict the following behaviors in our community. Instances, threat
 ## Reporting an Issue
 Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
 
-When an incident does occur, it is important to report it promptly. To report a possible violation, contact any Community Moderator (a committer who is a maintainer of the repository) in private.
+When an incident does occur, it is important to report it promptly. To report a possible violation, contact the Community Moderators on [chantico-project@tno.nl](mailto:chantico-project@tno.nl)
 
 Community Moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. 
 Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. 
