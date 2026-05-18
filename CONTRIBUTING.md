@@ -21,8 +21,8 @@ Your contributions to Chantico must be licensed properly:
 
 - Code contributions must be licensed under the [Apache 2.0
    License](http://www.apache.org/licenses/LICENSE-2.0).
-- Documentation contributions must be licensed under [CC-BY-SA
-  4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+- Documentation contributions must be licensed under [CC-BY
+  4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 If your contributions are based on pre-existing content, do not include code and
 documentation that is not compatible with the project licences.
