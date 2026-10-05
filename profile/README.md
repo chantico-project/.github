@@ -3,8 +3,7 @@
 <a href="https://github.com/chantico-project/chantico">
 <img 
 src="https://raw.githubusercontent.com/chantico-project/chantico/main/docs/assets/logo/chantico.png" 
-width="150" height="150" alt="Chantico logo">
-<span color="#21B573">Chantico</span>
+width="400" alt="Chantico">
 </a>
 </h1>
 </div>
